@@ -1,2 +1,2 @@
-This folder consists of the raw data aquired for the complinat damper to observe its non linearity in terms of softening charactersitics. 
+This folder consists of the raw data aquired for the compliant damper to observe its non linearity in terms of softening charactersitics. 
 Once you download this file, you can aqurire the FRF of the system using the matlab file. 
